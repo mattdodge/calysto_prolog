@@ -31,7 +31,7 @@ Use Calysto Prolog in the console, qtconsole, or notebook:
 ```
 jupyter console --kernel calysto_prolog
 jupyter qtconsole --kernel calysto_prolog
-jupyter notebook --kernel calysto_prolog
+jupyter notebook
 ```
 
 ### Example Facts
